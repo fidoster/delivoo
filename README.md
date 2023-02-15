@@ -8,8 +8,8 @@ Built with TypeScript, React and Material-UI, our user-friendly calculator allow
 
 Getting Started
 
-1.Download the .zip file and extract it to a convenient location on your computer.
-2.Open a terminal and navigate to the extracted folder.
+1.Download the folder
+2.Open a terminal and navigate to the folder.
 3.Run npm install to install the necessary dependencies.
 4.Run npm start to start the development server.
 5.Open your browser and navigate to http://localhost:3000/ to see the calculator in action.
