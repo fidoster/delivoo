@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #E1EBEE;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.calculator {
+  border: 2px solid #041E42;
+  background-color: #B9D9EB;
+  padding: 16px;
+  border-radius: 12px;
+}
+
+.title {
+  margin-bottom: 40px;
+  padding-bottom: 25px;
+}
+
