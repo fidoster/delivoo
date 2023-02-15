@@ -1,3 +1,5 @@
+![Delivery](https://user-images.githubusercontent.com/99990278/219038156-f3a2058a-19bf-4bb1-8a01-d5fe02ed0e75.JPG)
+
 DELIVERY FEE CALCULATOR
 
 Are you tired of manually calculating delivery fees for your order? Look no further! Our Delivery Fee Calculator is here to save the day.
@@ -27,9 +29,6 @@ The calculator is set to the current timezone.
 Negative values are not allowed in any of the fields.
 The "Delivery Fee" field is read-only and can not be edited.
 
-Support
-
-If you have any questions or issues, please feel free to contact us at farhan.midsweden@gmail.com for assistance.
 
 Acknowledgements
 
